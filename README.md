@@ -1,2 +1,2 @@
 # FolhaCerta
-Projeto usando os conceitos de schedule, lamba entre outros em python
+Projeto usando os conceitos de schedule, lambda entre outros em python
